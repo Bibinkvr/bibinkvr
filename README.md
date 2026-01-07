@@ -11,16 +11,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bibinkvr&theme=onedark" />
-</p>
->
-
----
-
 ## 💎 Tech Stack
 
 ### 💻 Frontend
