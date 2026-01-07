@@ -13,10 +13,11 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bibinkvr&theme=onedark" />
-</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bibinkvr&theme=onedark" />
+</p>
+>
 
 ---
 
