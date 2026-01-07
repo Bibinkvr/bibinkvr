@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Bibin K V</h1>
+<h1 align="center">⚡ Bibin K V R</h1>
 <h3 align="center">Frontend • MERN Stack • Python Developer</h3>
 
 <p align="center">
